@@ -29,3 +29,8 @@ This project is a simple Arduino-based security alarm designed to simulate a bas
 - Add a motion sensor
 - Add an LCD status display
 - Add wireless notifications
+
+## Circuit Design
+![Circuit Diagram](mini-security-alarm-circuit.png)
+## Alarm Triggered
+![Alarm Triggered](mini-alarm-triggered.png)
